@@ -1,0 +1,33 @@
+.nav {
+    padding: 20px;
+    grid-area: n;
+    background-color: lightseagreen;
+    width: 250px;
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.item a.active {
+    color: gold;
+}
+
+.item a.activeLink {
+    color: lawngreen;
+
+}
+
+.item a.activeYuriy {
+    color: green;
+}
+
+.item a.act {
+    color: red;
+}
+
+.item a.activejt {
+    color: blue;
+}
